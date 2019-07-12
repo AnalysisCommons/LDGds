@@ -1,6 +1,6 @@
 # This script calculates the full LD matrix within a given region or for a given variant
 
-# gds.file <- "/Users/tmajaria/Documents/projects/public_workflows/genesis_wdl/inputs/1KG_phase3_subset.gds"
+# gds.file <- "inputs/1KG_phase3_chr20_subset.gds"
 # sample.ids.file <- NULL
 # ref.var <- "1:96922279"
 # interval <- NULL

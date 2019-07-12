@@ -22,7 +22,7 @@ task calculate_LD {
 	}
 
 	runtime {
-		docker: "tmajarian/ldgds:v0.1"
+		docker: "analysiscommon/ldgds:v0.1"
 		disks: "local-disk " + disk + " HDD"
 		memory: select_first([memory,"5"]) + " GB"
 	}
