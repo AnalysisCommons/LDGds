@@ -1,0 +1,10 @@
+{
+	"LD_wf.this_interval": "20.33500000.33600000",
+	"LD_wf.this_max_maf": 1,
+	"LD_wf.this_min_maf": 0.2,
+	"LD_wf.this_sample_ids_file": "inputs/YRI_sample_ids.txt",
+	"LD_wf.this_ld_method": "r",
+	"LD_wf.this_visualization": "T",
+	"LD_wf.this_out_pref": "LDGds_test",
+	"LD_wf.this_gds_file": "inputs/1KG_phase3_chr20_subset.gds"
+}
